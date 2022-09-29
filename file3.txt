@@ -1,5 +1,12 @@
-Este é o exemplo de um texto file3
+<h1>Listas de coisas</h1>
 
-Ganda nice
+<h2>Comidas</h2>
 
-Bueda fixe 
+<ul>
+	<li>Bolos</li>
+	<li>Tostas</li>
+	<li>Sandes</li>
+</ul>
+
+
+
