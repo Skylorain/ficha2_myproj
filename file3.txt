@@ -1,5 +1,9 @@
 Este é o exemplo de um texto file3
 
-Ganda nice
+<h2>Bebidas</h2>
 
-Bueda fixe 
+<ul>
+	<li>Coffee</li>
+	<li>Tea</li>
+	<li>Milk</li>
+<ul>
