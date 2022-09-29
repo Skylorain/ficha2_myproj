@@ -1,1 +1,12 @@
+Eliminei a primeira linha escrevi esta!!
+
+
+
+
+
+
+
+
+
+
 Este é o exemplo de um ficheiro de texto file1
